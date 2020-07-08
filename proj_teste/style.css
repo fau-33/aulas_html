@@ -1,0 +1,25 @@
+*{
+  margin: 0 auto;
+  padding: 0;
+}
+.container-menu{
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+header .links  ul{
+  display: flex;
+}
+
+header .links ul li{
+  padding-right: 100px;
+  list-style: none;
+}
+
+.container-banner{
+  background-color: green;
+}
